@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.962" height="79.571" viewBox="0 0 125.962 79.571">
+  <g id="Groupe_51" data-name="Groupe 51" transform="translate(-4005.714 -6383.661)">
+    <g id="delivery-truck" transform="translate(3999.408 6356.106)">
+      <path id="Tracé_80" data-name="Tracé 80" d="M6.306,27.554H80.188v58.2H6.306Z" transform="translate(0)" fill="#c17817"/>
+      <path id="Tracé_81" data-name="Tracé 81" d="M126.066,85.032V62.082L111.89,59.208l-14-23.792h-23.9V85.032Z" transform="translate(6.202 0.72)" fill="#294c60"/>
+      <path id="Tracé_82" data-name="Tracé 82" d="M82.064,27.554h6.658v8.582H82.064Z" transform="translate(6.942)" fill="#c17817"/>
+      <path id="Tracé_83" data-name="Tracé 83" d="M113.38,65.979h9.076v7.359H113.38Z" transform="translate(9.811 3.521)" fill="#dfeef4"/>
+      <path id="Tracé_84" data-name="Tracé 84" d="M101.934,42.868H82.064V58.525h29.085Z" transform="translate(6.942 1.403)" fill="#6eabc3"/>
+      <path id="Tracé_85" data-name="Tracé 85" d="M6.306,80.867h125.96v13.31H6.306Z" transform="translate(0 4.885)" fill="#294c60"/>
+      <circle id="Ellipse_16" data-name="Ellipse 16" cx="14.748" cy="14.748" r="14.748" transform="translate(17.27 77.629)" fill="#6d7a84"/>
+      <circle id="Ellipse_17" data-name="Ellipse 17" cx="14.748" cy="14.748" r="14.748" transform="translate(91.807 77.629)" fill="#6d7a84"/>
+      <circle id="Ellipse_18" data-name="Ellipse 18" cx="5.489" cy="5.489" r="5.489" transform="translate(26.53 86.889)" fill="#dfeef4"/>
+      <circle id="Ellipse_19" data-name="Ellipse 19" cx="5.489" cy="5.489" r="5.489" transform="translate(101.066 86.889)" fill="#dfeef4"/>
+      <path id="Tracé_86" data-name="Tracé 86" d="M86.6,66.071H82.223a1.91,1.91,0,0,1,0-3.821H86.6a1.91,1.91,0,0,1,0,3.821Z" transform="translate(6.781 3.179)" fill="#3e7d95"/>
+      <g id="Groupe_32" data-name="Groupe 32" transform="translate(15.11 34.63)">
+        <path id="Tracé_87" data-name="Tracé 87" d="M35.212,37.857H16.281a1.91,1.91,0,0,1,0-3.821H35.212a1.91,1.91,0,0,1,0,3.821Z" transform="translate(-14.371 -34.036)" fill="#e3be7d"/>
+        <path id="Tracé_88" data-name="Tracé 88" d="M44.483,37.857H40.56a1.91,1.91,0,1,1,0-3.821h3.923a1.91,1.91,0,0,1,0,3.821Z" transform="translate(-12.146 -34.036)" fill="#e3be7d"/>
+      </g>
+    </g>
+    <text id="www" transform="translate(4042 6419)" fill="#e3be7d" font-size="18" font-family="Helvetica"><tspan x="-19.499" y="0">www</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.49" height="32.937" viewBox="0 0 33.49 32.937">
+  <g id="Logo" transform="translate(434 -1378.923)">
+    <path id="Tracé_12" data-name="Tracé 12" d="M7.541-.052H8.978c4.165,0,7.9,4.516,7.9,8.681V9.707c0,4.165-3.735,6.4-7.9,6.4H7.541c-4.165,0-7.541.85-7.541-3.315V3.552C0-.613,3.376-.052,7.541-.052Z" transform="translate(-417.747 1379)" fill="#fff" opacity="0.999"/>
+    <path id="Tracé_13" data-name="Tracé 13" d="M4.135,16.146l1.733-.228c4.117-.761,8.069-4.575,8.069-8.794V6.032c0-4.219-3.2-6.832-7.45-6.832H5.02C.766-.8-3.3-1.314-3.3,2.905l-2.341,9.923C-5.642,17.047-.119,16.146,4.135,16.146Z" transform="translate(-414.446 1395.633)" fill="#fff" opacity="0.999"/>
+    <path id="Rectangle_16" data-name="Rectangle 16" d="M0,0H3.5A2.5,2.5,0,0,1,6,2.5v0A2.5,2.5,0,0,1,3.5,5H0A0,0,0,0,1,0,5V0A0,0,0,0,1,0,0Z" transform="translate(-416 1386)" fill="#294c60" opacity="0.999"/>
+    <path id="Rectangle_17" data-name="Rectangle 17" d="M0,0H3A3,3,0,0,1,6,3V3A3,3,0,0,1,3,6H0A0,0,0,0,1,0,6V0A0,0,0,0,1,0,0Z" transform="translate(-416 1398)" fill="#294c60" opacity="0.999"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="32.682" height="6.661" transform="translate(-415.151 1379.111) rotate(90)" fill="#15031b"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="21" height="7" transform="translate(-434 1379)" fill="#fff"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="15" height="7" transform="translate(-428 1391)" fill="#fff"/>
+  </g>
+</svg>

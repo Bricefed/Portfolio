@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.726" height="125.723" viewBox="0 0 125.726 125.723">
+  <g id="delivery" transform="translate(-6.307 -6.306)">
+    <path id="Tracé_164" data-name="Tracé 164" d="M104.787,25.567,43.336,38.82,54.13,88.867l.032.021a20.9,20.9,0,0,1,13.8,8.9l.031.02,50.051-10.794Z" transform="translate(3.318 1.726)" fill="#3e7d95"/>
+    <circle id="Ellipse_44" data-name="Ellipse 44" cx="20.861" cy="20.861" r="20.861" transform="translate(33.129 90.308)" fill="#6d7a84"/>
+    <circle id="Ellipse_45" data-name="Ellipse 45" cx="10.107" cy="10.107" r="10.107" transform="translate(43.882 101.061)" fill="#dfeef4"/>
+    <g id="Groupe_49" data-name="Groupe 49" transform="translate(6.307 6.306)">
+      <path id="Tracé_165" data-name="Tracé 165" d="M69.038,100.152l57.651-12.431-1.627-7.548L65.968,92.918l-.031-.02a20.791,20.791,0,0,1,3.1,7.254Z" transform="translate(-0.964 0.313)" fill="#294c60"/>
+      <path id="Tracé_166" data-name="Tracé 166" d="M57.479,90.613l-.032-.021L39.27,6.306H6.307v7.719H33.038L49.592,90.778A20.765,20.765,0,0,1,57.479,90.613Z" transform="translate(-6.307 -6.306)" fill="#294c60"/>
+    </g>
+    <g id="Groupe_50" data-name="Groupe 50" transform="translate(49.615 41.025)">
+      <path id="Tracé_167" data-name="Tracé 167" d="M105.16,41.9,81.918,46.909l-.8-3.726,23.241-5.012Z" transform="translate(-42.91 -38.17)" fill="#6eabc3"/>
+      <path id="Tracé_168" data-name="Tracé 168" d="M82.049,82.3a1.907,1.907,0,0,1-.4-3.771l3.48-.751a1.907,1.907,0,1,1,.805,3.728l-3.481.751a1.9,1.9,0,0,1-.4.044Z" transform="translate(-42.998 -34.625)" fill="#6eabc3"/>
+      <path id="Tracé_169" data-name="Tracé 169" d="M67.1,85.632a1.907,1.907,0,0,1-.4-3.771l9.648-2.081a1.907,1.907,0,1,1,.8,3.728l-9.649,2.081a1.912,1.912,0,0,1-.4.044Z" transform="translate(-44.337 -34.445)" fill="#6eabc3"/>
+      <path id="Tracé_170" data-name="Tracé 170" d="M70.1,49.456,46.859,54.469l-.806-3.726L69.294,45.73h.011Z" transform="translate(-46.053 -37.493)" fill="#6eabc3"/>
+    </g>
+    <path id="Tracé_171" data-name="Tracé 171" d="M79.63,30.168l6.626,30.726-8.764-5.938L71.3,64.12,64.669,33.394Z" transform="translate(5.23 2.138)" fill="#c17817"/>
+  </g>
+</svg>
